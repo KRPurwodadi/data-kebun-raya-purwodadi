@@ -1,2 +1,2 @@
-# data-kebun-raya-purwodadi
-Project R untuk Data Cleaning dan Analisis Koleksi Tumbuhan Kebun Raya Purwodadi menggunakan referensi WCVP dan GBIF
+# Data-Koleksi-Kebun-Raya-DPKI-BRIN
+Project R Packages untuk Data Cleaning dan Analisis Koleksi Tumbuhan Kebun Raya DPKI BRIN menggunakan referensi WCVP dan GBIF
